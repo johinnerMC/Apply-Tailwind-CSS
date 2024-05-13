@@ -1,0 +1,17 @@
+[33mcommit 7599b7b83149da20e0dfe9137bbe1b844223b004[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Johinner Madariaga <johinner5721@gmail.com>
+Date:   Sun Apr 14 21:15:41 2024 -0500
+
+    Formateo y orden de clases automaticos
+
+[33mcommit a042dd63d5b593704f12dbb89e3eb668b18d6df3[m
+Author: Johinner Madariaga Corpas <98567490+johinnerMC@users.noreply.github.com>
+Date:   Sun Apr 14 16:10:40 2024 -0500
+
+    Update README.md
+
+[33mcommit 5c2e1d579cd11602215e6467babc39755cfa8083[m
+Author: Johinner Madariaga <johinner5721@gmail.com>
+Date:   Sun Apr 14 16:05:37 2024 -0500
+
+    Instalación de Tailwind CSS y Vite
