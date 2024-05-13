@@ -30,7 +30,7 @@ Tailwind CSS es altamente personalizable. Puedes modificar el archivo tailwind.c
 
 Vite es una herramienta de desarrollo rápida para proyectos web modernos que puede integrarse fácilmente en proyectos existentes. A continuación, se detallan los pasos para agregar Vite a tu proyecto:
 
-### Paso 1: Instalar las siguientes devDependencies
+### Paso 1: Instalar las siguientes dependencias de desarrollo
 
 ```bash
 npm install -D vite postcss autoprefixer
@@ -71,7 +71,7 @@ npm install -D prettier prettier-plugin-tailwindcss
 2. En Visual Studio Code haz clic en Archivo (File) en la barra de menú.
    Selecciona Preferencias (Preferences) y luego Configuración (Settings) o simplemente presiona Ctrl+, (Control más coma).
 
-En la barra de busqueda escribe "format". Asegurate de tener las siguites item.
+En la barra de busqueda escribe "format". Asegurate de tener los siguientes item.
 ![Ejemplo de configuracion.](https://raw.githubusercontent.com/johinnerMC/cloud-images/master/guia/format.jpg)
 
 3. Crea un archivo de configuración ".prettierrc" que se utiliza para especificar las reglas de formato que Prettier debe seguir al formatear tu código.
